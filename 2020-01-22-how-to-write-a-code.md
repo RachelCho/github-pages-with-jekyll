@@ -1,6 +1,6 @@
 ---
-Layout: post
-title: "How-to-write-a-code!"
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
 author: GitHub RachelCho
 email: your-rachel.cho5257@gmail.com
