@@ -1,5 +1,7 @@
+---
 Layout: post
-title: "How-to-write-a-code"
+title: "How-to-write-a-code!"
+---
 author: GitHub RachelCho
 email: your-rachel.cho5257@gmail.com
 categories: [blog, travel]
